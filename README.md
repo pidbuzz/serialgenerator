@@ -1,2 +1,1 @@
-# serialgenerator
-Batch Serial Generator
+2026.10.22 - serial-generator-v3.html
